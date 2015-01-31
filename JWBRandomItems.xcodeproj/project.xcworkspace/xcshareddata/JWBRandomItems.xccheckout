@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>502B5345-5896-4AB2-BA9B-C720B7D21D6E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JWBRandomItems</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FEFDE9AC-B87A-4193-ABC2-06C210350DE7</key>
+		<string>https://github.com/jwb64/JWBRandomItems.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JWBRandomItems.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FEFDE9AC-B87A-4193-ABC2-06C210350DE7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jwb64/JWBRandomItems.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FEFDE9AC-B87A-4193-ABC2-06C210350DE7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FEFDE9AC-B87A-4193-ABC2-06C210350DE7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JWBRandomItems</string>
+		</dict>
+	</array>
+</dict>
+</plist>
