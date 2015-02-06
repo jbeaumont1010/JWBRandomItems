@@ -21,6 +21,7 @@
 //Class method
 + (instancetype)randomItem;
 
+// Designated initializer for JWBItem
 - (instancetype)initWithItemName: (NSString *)name
                   valueInDollars:(int)value
                     serialNumber:(NSString *)sNumber;

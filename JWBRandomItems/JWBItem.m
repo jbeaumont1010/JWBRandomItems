@@ -49,8 +49,10 @@
     return newItem;
 }
 
-
-- (instancetype)initWithItemName:(NSString *)name valueInDollars:(int)value serialNumber:(NSString *)sNumber
+// Designated Initializer
+- (instancetype)initWithItemName:(NSString *)name
+                  valueInDollars:(int)value
+                    serialNumber:(NSString *)sNumber
 {
     // Call the superclass's designated initializer
     self = [super init];
@@ -68,6 +70,17 @@
     // Return the address of the newly initialized object
     return self;
 }
+
+    // Silver challenge - Not designated initialize of BRNItem.  Takes instance of NSString that identifies
+    // itemName and serialNumber
+- (instancetype)initWithItemName:(NSString *)name
+                    serialNumber:(NSString *)sNumber
+
+{
+    return [self initWithItemName: name
+            serialNumber:sNumber];
+}
+
 
 - (instancetype)initWithItemName: (NSString *)name
 {

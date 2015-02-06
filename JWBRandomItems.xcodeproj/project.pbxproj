@@ -11,6 +11,7 @@
 		5F8782B51A7D607300ADC70A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F8782B41A7D607300ADC70A /* main.m */; };
 		5F8782B91A7D607300ADC70A /* JWBRandomItems.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 5F8782B81A7D607300ADC70A /* JWBRandomItems.1 */; };
 		5F8782C11A7D613800ADC70A /* JWBItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F8782C01A7D613800ADC70A /* JWBItem.m */; };
+		5F8782C41A7D7A1500ADC70A /* JWBContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F8782C31A7D7A1500ADC70A /* JWBContainer.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +35,8 @@
 		5F8782B81A7D607300ADC70A /* JWBRandomItems.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = JWBRandomItems.1; sourceTree = "<group>"; };
 		5F8782BF1A7D613800ADC70A /* JWBItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JWBItem.h; sourceTree = "<group>"; };
 		5F8782C01A7D613800ADC70A /* JWBItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JWBItem.m; sourceTree = "<group>"; };
+		5F8782C21A7D7A1500ADC70A /* JWBContainer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JWBContainer.h; sourceTree = "<group>"; };
+		5F8782C31A7D7A1500ADC70A /* JWBContainer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JWBContainer.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +82,8 @@
 				5F8782B41A7D607300ADC70A /* main.m */,
 				5F8782BF1A7D613800ADC70A /* JWBItem.h */,
 				5F8782C01A7D613800ADC70A /* JWBItem.m */,
+				5F8782C21A7D7A1500ADC70A /* JWBContainer.h */,
+				5F8782C31A7D7A1500ADC70A /* JWBContainer.m */,
 				5F8782B81A7D607300ADC70A /* JWBRandomItems.1 */,
 				5F8782B61A7D607300ADC70A /* Supporting Files */,
 			);
@@ -146,6 +151,7 @@
 			files = (
 				5F8782C11A7D613800ADC70A /* JWBItem.m in Sources */,
 				5F8782B51A7D607300ADC70A /* main.m in Sources */,
+				5F8782C41A7D7A1500ADC70A /* JWBContainer.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
